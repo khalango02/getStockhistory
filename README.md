@@ -1,5 +1,8 @@
 # getStockhistory
 
+pip install investpy
+pip install flask
+
 Start server: python main.py
 
 Usage:
